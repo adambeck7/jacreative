@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.1cb02144590046f8640d0abd6ef73f0c.js"
+  "/precache-manifest.7bb4cb55269643090c6af27f7bd02578.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "jacreative"});
